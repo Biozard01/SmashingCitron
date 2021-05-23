@@ -14,3 +14,12 @@
 .card-group{
     padding-top: 50px;
 }
+
+.card{
+    padding-top: 50px;
+}
+.titre{
+    font-size: x-small; 
+    text-align: center;
+    padding-top: 50px;
+}
